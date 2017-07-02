@@ -1,4 +1,4 @@
-"Road Quality Survey App" (RQSA) project. All project documentation is maintained within the [project Wiki](https://github.com/empug/road-quality-project/wiki)
+"Road Quality Survey" (RQS) project. All project documentation is maintained within the [project Wiki](https://github.com/empug/road-quality-project/wiki)
 
 
 # Overview
