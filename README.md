@@ -6,7 +6,7 @@ This project is a group activity to design, build, and enhance a python based pr
 
 # Coming Soon:
 
-## How to setup your micro:bit
+### How to setup your micro:bit
 
-## How to run the project "HelloWorld.py" script
+### How to run the project "HelloWorld.py" script
 This script is designed to validate your board, repl, and other parts are setup correctly. 
