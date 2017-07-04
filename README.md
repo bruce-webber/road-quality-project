@@ -8,7 +8,14 @@ The micro:bit is stocked at a number of retailers. We've found [Adafruit](https:
 
 ### Quick Notes:
 * This project is based around MicroPython v1.9. This implements python 3.4 compatible syntax.
-* To contribute to this project, please open a pull request.
+
+### Contributing
+
+* Fork it!
+* Create your feature branch: git checkout -b my-new-feature
+* Commit your changes: git commit -am 'Add some feature'
+* Push to the branch: git push origin my-new-feature
+* Submit a pull request :D
 
 # Coming Soon:
 
