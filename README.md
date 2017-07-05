@@ -1,3 +1,7 @@
+### **!! HEADS UP !! If you haven't bought your micro:bit for this project yet, please hold off a couple days. A space constraint introduced by the micro:bit prevents MicroPython support for BLE (Bluetooth).** 
+
+### **This needs to be resolved before we can move forward as this was a major path of getting the data off the device. A number of solutions are being looked at to see if it's possible to stay the course with the micro:bit. That said, a group discussion is being started on the Gitter channel to vet this out. Apologies for this rather unfortunate oversight/issue.**
+
 "Road Quality Survey" (RQS) project. All project documentation is maintained within the [project Wiki](https://github.com/empug/road-quality-project/wiki)
 
 
